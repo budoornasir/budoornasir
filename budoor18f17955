@@ -1,9 +1,9 @@
 public class buclass {
 public static void main(String args[]) {
-String name = "Buddor";
+String name = "noor";
 for(int i=0;i<name.length();i++)  {
 char result = name.charAt(i);
-if(result=="B" || result=="b")  {
+if(result=="c" || result=="e")  {
   system.out.println(result);
   }
     }
