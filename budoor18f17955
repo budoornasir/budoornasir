@@ -1,6 +1,6 @@
 public class buclass {
 public static void main(String args[]) {
-String name = "noor";
+String name = "noorr";
 for(int i=0;i<name.length();i++)  {
 char result = name.charAt(i);
 if(result=="c" || result=="e")  {
